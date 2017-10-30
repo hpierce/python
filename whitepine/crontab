@@ -1,0 +1,3 @@
+# Runner
+MAILTO=""
+03 7 * * * "$HOME/bin/runner.sh"
